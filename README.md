@@ -1,4 +1,4 @@
-![image of entropy](./entropy.jpg)
+![image of entropy](./entropy.png)
 
 my @Informations = qw(
 
