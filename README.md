@@ -1,4 +1,4 @@
-### Hi there 👋
+![image of entropy](./entropy.jpg)
 
 my @Informations = qw(
 
