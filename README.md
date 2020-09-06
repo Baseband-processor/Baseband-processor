@@ -1,4 +1,16 @@
 ### Hi there 👋
+
+my @Informations = qw(
+18 years old, 
+cryptanalysis student, 
+embedded reverse engineering,
+penetration testing,
+Wireless security programmer,
+EMSEC lover and Formal verification enthusiast
+
+Programming languages: Perl, IGawk, sed, asm-mips and Cryptol
+);
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&show_icons=true&include_all_commits=true&count_private=true&hide=stars)
 
 <!--
