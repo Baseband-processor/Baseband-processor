@@ -1,4 +1,4 @@
-![image of entropy](./entropy.png)
+![image of entropy](https://github.com/Baseband-processor/Baseband-processor/blob/master/entropy.png)
 
 my @Informations = qw(
 
