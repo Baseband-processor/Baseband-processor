@@ -26,14 +26,28 @@ Idols: Claude Shannon, Huffman, Ramanujan and Giordano Bruno.
 KNOWELEDGE
 =================================
 
-perl:                                              Forensics:                                            Cryptography:
+perl:                                                                                     
     
-![75%](https://progress-bar.dev/75)                ![22%](https://progress-bar.dev/22)                    ![61%](https://progress-bar.dev/61)
+![75%](https://progress-bar.dev/75)                               
 
-CyberSecuriy:                                       Wireless Security:                                    EMSEC:
+Wireless Security:                                    
 
-![82%](https://progress-bar.dev/82)                 ![80%](https://progress-bar.dev/80)                   ![12%](https://progress-bar.dev/12)
-
-
+![80%](https://progress-bar.dev/80)
 
 
+CyberSecuriy:
+
+![82%](https://progress-bar.dev/82)                                    
+
+
+EMSEC:
+
+![12%](https://progress-bar.dev/12)
+
+Digital Forensics: 
+
+![22%](https://progress-bar.dev/22) 
+
+Cryptography:
+
+![61%](https://progress-bar.dev/61)
