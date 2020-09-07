@@ -4,6 +4,8 @@ my @Informations = qw(
 
 18 years old,
 
+Italian, 
+
 cryptanalysis student, 
 
 embedded reverse engineering,
@@ -25,7 +27,7 @@ Idols: Claude Shannon, Huffman, Ramanujan and Giordano Bruno,
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&show_icons=true&include_all_commits=true&count_private=true)
 
 
-TIME SPENT STUDYING SUBJECTS
+STUDYING STATS
 =================================
 
 perl:                                                                                     
