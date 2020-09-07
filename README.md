@@ -12,11 +12,13 @@ penetration testing,
 
 Wireless security programmer,
 
-EMSEC lover and Formal verification enthusiast
+EMSEC lover and Formal verification enthusiast,
 
-Programming languages: Perl, IGawk, sed, asm-mips and Cryptol
+Interested in DSP, Wireless drivers programming, Watermarking and covert channels,
 
-Idols: Claude Shannon, Huffman, Ramanujan and Giordano Bruno. 
+Programming languages: Perl, IGawk, sed, asm-mips and Cryptol,
+
+Idols: Claude Shannon, Huffman, Ramanujan and Giordano Bruno,
 
 );
 
