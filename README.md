@@ -32,29 +32,29 @@ STUDYING STATS
 
 perl:                                                                                     
     
-![75%](https://progress-bar.dev/75)                               
+![70%](https://progress-bar.dev/70)                               
 
-Wireless Security:                                    
+Wireless Security and Communication Security:                                    
 
 ![80%](https://progress-bar.dev/80)
 
 
-CyberSecuriy:
+CyberSecurity (OSINT and other):
 
 ![82%](https://progress-bar.dev/82)                                    
 
 
 EMSEC:
 
-![12%](https://progress-bar.dev/12)
+![20%](https://progress-bar.dev/20)
 
 Digital Forensics: 
 
-![22%](https://progress-bar.dev/22) 
+![13%](https://progress-bar.dev/13) 
 
 Cryptography:
 
-![61%](https://progress-bar.dev/61)
+![63%](https://progress-bar.dev/63)
 
 CONTACTS
 ================================
