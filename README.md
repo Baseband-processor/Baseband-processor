@@ -2,7 +2,7 @@
 
 *Shannon's entropy formula*
 
-my @Informations = qw(
+my **@Informations** = qw(
 
 18 years old,
 
@@ -26,7 +26,7 @@ Idols: Claude Shannon, Huffman, Ramanujan and Giordano Bruno,
 
 );
 
-my @Projects = (
+my **@Projects** = (
 
 Baseband processor reverse engineering,
     
