@@ -63,7 +63,3 @@ CONTACTS
 Email: Baseband [at] cpan [dot] org
 
 
-![image of Ramanujan](https://github.com/Baseband-processor/Baseband-processor/blob/master/Ramanujan.png)
-
-*Ramanujan's summation formula*
-
