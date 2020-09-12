@@ -26,6 +26,24 @@ Idols: Claude Shannon, Huffman, Ramanujan and Giordano Bruno,
 
 );
 
+my @Projects = (
+
+Baseband processor reverse engineering,
+    
+Air::Toolkit framework mantainer
+    
+SDR::RTLSDR && PCI
+    
+Differential entropy applied to traffic analysis attacks 
+        
+Working on Mode-S attacks
+    
+perl's based OSINT framework (still in early beta)
+
+Rewriting _Camel for Elyza_
+
+);
+    
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&show_icons=true&include_all_commits=true&count_private=true)
 
 
