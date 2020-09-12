@@ -1,4 +1,5 @@
 ![image of entropy](https://github.com/Baseband-processor/Baseband-processor/blob/master/entropy.png)
+
 *Shannon's entropy formula*
 
 my @Informations = qw(
