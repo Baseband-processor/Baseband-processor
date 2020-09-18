@@ -20,7 +20,7 @@ EMSEC lover and Formal verification enthusiast,
 
 Interested in DSP, Wireless drivers programming, Watermarking and covert channels,
 
-Programming languages: Perl, IGawk, sed, asm-mips and Cryptol,
+Programming languages: Perl, IGawk, sed, asm-mips, XS, C, Cryptol(beginner level),
 
 Idols: Claude Shannon, Huffman, Ramanujan and Giordano Bruno,
 
