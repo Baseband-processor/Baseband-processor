@@ -6,7 +6,7 @@ my **@Informations** = qw(
 
 18 years old,
 
-Italian, 
+Italian, from Marche, Urbino
 
 cryptanalysis student, 
 
@@ -19,6 +19,8 @@ Wireless security programmer,
 EMSEC lover and Formal verification enthusiast,
 
 Interested in DSP, Wireless drivers programming, Watermarking and covert channels,
+
+SDR programmer, Mojolicious beginner,
 
 Programming languages: Perl, IGawk, sed, asm-mips, XS, C, Cryptol(beginner level),
 
@@ -56,12 +58,12 @@ perl:
 
 Wireless Security and Communication Security:                                    
 
-![80%](https://progress-bar.dev/80)
+![82%](https://progress-bar.dev/80)
 
 
 CyberSecurity (OSINT and other):
 
-![82%](https://progress-bar.dev/82)                                    
+![83%](https://progress-bar.dev/82)                                    
 
 
 EMSEC:
