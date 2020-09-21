@@ -22,10 +22,6 @@ Interested in DSP, Wireless drivers programming, Watermarking and covert channel
 
 SDR programmer, Mojolicious beginner,
 
-Programming languages: Perl, IGawk, sed, asm-mips, XS, C, Cryptol(beginner level),
-
-Idols: Claude Shannon, Huffman, Ramanujan and Giordano Bruno,
-
 );
 
 my **@Projects** = (
@@ -46,6 +42,38 @@ Rewriting _Camel for Elyza_
 
 );
     
+
+my  **@Idols** = (
+
+Claude Shannon,
+
+Ramanujan,
+
+Gavin Lowe,
+
+Giordano Bruno
+
+);
+
+my  **@Programming Languages** = ( 
+
+Perl, 
+
+awk/IGawk, 
+
+GNU sed, 
+
+asm-mips, 
+
+XS, 
+
+C(intermediate level), 
+
+Cryptol(beginner level),
+
+);
+
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 
 
