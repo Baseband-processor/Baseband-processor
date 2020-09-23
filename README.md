@@ -10,7 +10,7 @@ Italian, from Marche, Urbino
 
 cryptanalysis student, 
 
-embedded reverse engineering,
+embedded system reverse engineering,
 
 penetration testing,
 
