@@ -74,7 +74,7 @@ Cryptol(beginner level),
 );
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&count_private=true&theme=dracula)
 
 
 STUDYING STATS
