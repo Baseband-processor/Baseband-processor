@@ -77,34 +77,6 @@ Cryptol(beginner level),
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&count_private=true&theme=dracula)
 ![My github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Baseband-processor&layout=compact&theme=dracula)
 
-STUDYING STATS
-=================================
-
-perl:                                                                                     
-    
-![70%](https://progress-bar.dev/70)                               
-
-Wireless Security and Communication Security:                                    
-
-![82%](https://progress-bar.dev/80)
-
-
-CyberSecurity (OSINT and other):
-
-![83%](https://progress-bar.dev/82)                                    
-
-
-EMSEC:
-
-![20%](https://progress-bar.dev/20)
-
-Digital Forensics: 
-
-![13%](https://progress-bar.dev/13) 
-
-Cryptography:
-
-![63%](https://progress-bar.dev/63)
 
 CONTACTS
 ================================
