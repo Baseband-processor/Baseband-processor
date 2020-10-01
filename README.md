@@ -16,6 +16,8 @@ penetration testing,
 
 Wireless security programmer,
 
+Data Compression alghoritm apprentice,
+
 EMSEC lover and Formal verification enthusiast,
 
 Interested in DSP, Wireless drivers programming, Watermarking and covert channels,
@@ -40,6 +42,8 @@ perl's based OSINT framework (still in early beta)
 
 Rewriting _Camel for Elyza_
 
+MH-128
+
 );
     
 
@@ -47,11 +51,11 @@ my  **@Idols** = (
 
 Claude Shannon,
 
-Ramanujan,
+Srinivasa Aiyangar Ramanujan,
 
 Gavin Lowe,
 
-Giordano Bruno
+Markus Kuhn
 
 );
 
