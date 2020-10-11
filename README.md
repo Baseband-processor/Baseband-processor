@@ -63,6 +63,8 @@ my  **@Programming Languages** = (
 
 Perl, 
 
+bash,
+
 awk/IGawk, 
 
 GNU sed, 
@@ -77,6 +79,15 @@ Cryptol(beginner level),
 
 );
 
+my **@Formal Languages** = (
+ 
+CSP,
+
+BAN logic,
+
+GNY logic,
+
+);
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&count_private=true&theme=dracula)
 ![My github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Baseband-processor&layout=compact&theme=dracula)
