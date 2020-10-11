@@ -28,7 +28,7 @@ Mojolicious beginner,
 
 Hate perl 6,
 
-(will) Hate perl 7
+(will) Hate perl 7,
 
 );
 
@@ -36,19 +36,19 @@ my **@Projects** = (
 
 Baseband processor reverse engineering,
     
-Air::Toolkit framework mantainer
+Air::Toolkit framework mantainer,
     
-SDR::RTLSDR && PCI
+SDR::RTLSDR && PCI,
     
-Differential entropy applied to traffic analysis attacks 
+Differential entropy applied to traffic analysis attacks,
         
-Working on Mode-S attacks
+Working on Mode-S attacks,
     
-perl's based OSINT framework (still in early beta)
+perl's based OSINT framework (still in early beta),
 
-Rewriting _Camel for Elyza_
+Rewriting _Camel for Elyza_,
 
-MH-128
+MH-128,
 
 );
     
@@ -61,7 +61,7 @@ Srinivasa Aiyangar Ramanujan,
 
 Gavin Lowe,
 
-Markus Kuhn
+Markus Kuhn,
 
 );
 
