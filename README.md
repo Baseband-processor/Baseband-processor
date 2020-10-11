@@ -22,7 +22,13 @@ EMSEC lover and Formal verification enthusiast,
 
 Interested in DSP, Wireless drivers programming, Watermarking and covert channels,
 
-SDR programmer, Mojolicious beginner,
+SDR programmer, 
+
+Mojolicious beginner,
+
+Hate perl 6,
+
+(will) Hate perl 7
 
 );
 
