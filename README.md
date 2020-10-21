@@ -98,7 +98,7 @@ GNY logic,
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&count_private=true&theme=dracula)
 ![My github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Baseband-processor&layout=compact&theme=dracula)
 
-![My github Trophy](https://github-profile-trophy.vercel.app/?username=Baseband-processor&theme=nord)
+![My github Trophy](https://github-profile-trophy.vercel.app/?username=Baseband-processor&theme=nord&title=Commit)
 
 CONTACTS
 ================================
