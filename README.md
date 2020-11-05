@@ -36,7 +36,7 @@ my **@Projects** = (
 
 Baseband processor reverse engineering,
     
-Air::Toolkit framework mantainer,
+Air::Legacy framework mantainer,
     
 SDR::RTLSDR && PCI,
     
