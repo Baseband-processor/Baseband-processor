@@ -8,11 +8,11 @@ my **@Informations** = qw(
 
 Italian, from Marche, Urbino
 
-cryptanalysis student, 
+Cryptanalysis student, 
 
-embedded system reverse engineering,
+Embedded system reverse engineering,
 
-penetration testing,
+tTactical penetration tester,
 
 Wireless security programmer,
 
@@ -20,7 +20,7 @@ Data Compression alghoritm apprentice,
 
 EMSEC lover and Formal verification enthusiast,
 
-Interested in DSP, Wireless drivers programming, Watermarking and covert channels,
+Interested in DSP, Wireless drivers programming, Watermarking and covert channels, also curious about audio communication,
 
 SDR programmer, 
 
