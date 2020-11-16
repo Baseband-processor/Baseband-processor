@@ -67,7 +67,8 @@ Markus Kuhn,
 
 my  **@Programming Languages** = ( 
 
-Perl, ![camel](https://www.vectorlogo.zone/logos/perl/perl-icon.svg)
+Perl, 
+
 
 bash,
 
@@ -95,6 +96,9 @@ GNY logic,
 
 );
 
+**mastered languages:**
+
+![camel](https://www.vectorlogo.zone/logos/perl/perl-icon.svg)
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&count_private=true&theme=dracula) 
