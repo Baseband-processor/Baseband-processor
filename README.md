@@ -12,7 +12,7 @@ Cryptanalysis student,
 
 Embedded system reverse engineering,
 
-tTactical penetration tester,
+Tactical penetration tester,
 
 Wireless security programmer,
 
