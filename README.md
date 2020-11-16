@@ -96,9 +96,6 @@ GNY logic,
 
 );
 
-**mastered languages:**
-
-![camel](https://www.vectorlogo.zone/logos/perl/perl-icon.svg)
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&count_private=true&theme=dracula) 
@@ -106,6 +103,10 @@ GNY logic,
 
 ![My github Trophy](https://github-profile-trophy.vercel.app/?username=Baseband-processor&theme=monokai)
 
+
+**mastered languages:**
+
+![camel](https://www.vectorlogo.zone/logos/perl/perl-icon.svg)
 
 CONTACTS
 ================================
