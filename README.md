@@ -96,9 +96,7 @@ GNY logic,
 );
 
 
-**top languages**
-
-
+![camel](https://www.vectorlogo.zone/util/preview.html?image=/logos/perl/perl-icon.svg)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Baseband-processor&count_private=true&theme=dracula) 
 
