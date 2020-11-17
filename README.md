@@ -20,7 +20,7 @@ Data Compression alghoritm apprentice,
 
 EMSEC lover and Formal verification enthusiast,
 
-Interested in DSP, Wireless drivers programming, Watermarking and covert channels, also curious about audio communication,
+Interested in DSP, Wireless drivers programming, Watermarking and covert channels, also curious about (covert) audio communication techniques,
 
 SDR programmer, 
 
