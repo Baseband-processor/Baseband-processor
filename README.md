@@ -76,6 +76,8 @@ awk/IGawk,
 
 GNU sed, 
 
+toybox sed,
+
 asm-mips, 
 
 XS, 
@@ -84,7 +86,9 @@ C (intermediate level),
 
 Cryptol (beginner level),
 
-Verilog (beginner level)
+Verilog (beginner level),
+
+HDL (beginner level),
 
 );
 
