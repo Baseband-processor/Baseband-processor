@@ -90,7 +90,7 @@ Cryptol (beginner level),
 
 Verilog (beginner level),
 
-HDL (beginner level),
+VHDL (beginner level),
 
 );
 
