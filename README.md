@@ -82,6 +82,8 @@ asm-mips,
 
 XS, 
 
+Latex,
+
 C (intermediate level), 
 
 Cryptol (beginner level),
