@@ -80,9 +80,11 @@ asm-mips,
 
 XS, 
 
-C(intermediate level), 
+C (intermediate level), 
 
-Cryptol(beginner level),
+Cryptol (beginner level),
+
+Verilog (beginner level)
 
 );
 
