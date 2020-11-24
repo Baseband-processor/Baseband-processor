@@ -92,6 +92,8 @@ Verilog (beginner level),
 
 VHDL (beginner level),
 
+systemVerilog( future intention ),
+
 );
 
 my **@Formal Languages** = (
