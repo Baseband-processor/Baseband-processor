@@ -24,11 +24,13 @@ Interested in DSP, Wireless drivers programming, Watermarking and covert channel
 
 SDR programmer, 
 
-Mojolicious beginner,
+(ex) Mojolicious beginner,
 
 Hate perl 6,
 
 (will) Hate perl 7,
+
+Love Heap Overflows,
 
 );
 
