@@ -45,14 +45,8 @@ Air::Legacy framework mantainer,
 SDR::RTLSDR && PCI,
     
 Differential entropy applied to traffic analysis attacks,
-        
-Working on Mode-S attacks,
-    
-perl's based OSINT framework (still in early beta),
 
 Rewriting _Camel for Elyza_,
-
-MH-128,
 
 );
     
