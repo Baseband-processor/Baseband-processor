@@ -30,7 +30,7 @@ Hate perl 6,
 
 (will) Hate perl 7,
 
-Love Heap Overflows,
+Want to learn Microcode,
 
 Electronic warfare Dreamer,
 
