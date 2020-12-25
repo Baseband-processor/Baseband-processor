@@ -6,7 +6,7 @@ my **@Informations** = qw(
 
 18 years old,
 
-Italian, from Marche, Urbino
+Italian, from Urbino, (Marche)
 
 Cryptanalysis student, 
 
