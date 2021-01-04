@@ -34,6 +34,8 @@ Want to learn Microcode,
 
 Electronic warfare Dreamer,
 
+mac80211, cfg80211 and nl80211 passionate programmer,
+
 );
 
 my **@Projects** = (
@@ -42,7 +44,7 @@ Baseband processor reverse engineering,
     
 Air::Legacy framework mantainer,
     
-SDR::RTLSDR && PCI,
+SDR::RTLSDR && PCI perl libraries,
     
 Differential entropy applied to traffic analysis attacks,
 
