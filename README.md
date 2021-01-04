@@ -84,7 +84,7 @@ XS,
 
 Latex,
 
-C (intermediate level), 
+C (intermediate/advanced level), 
 
 Cryptol (beginner level),
 
