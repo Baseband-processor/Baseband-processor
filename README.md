@@ -123,3 +123,6 @@ CONTACTS
 Email: Baseband [at] cpan [dot] org
 
 
+- [x]  I am open to suggestions, code improvement, collaboration and other requests
+
+
