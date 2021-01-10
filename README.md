@@ -50,7 +50,7 @@ Differential entropy applied to traffic analysis attacks,
 
 Rewriting _Camel for Elyza_,
 
-fall in love with cfg80211, mac80211 and bluetooth.h
+fallen in love with cfg80211, mac80211 and bluetooth.h
 
 );
     
